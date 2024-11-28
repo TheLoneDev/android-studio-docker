@@ -1,5 +1,7 @@
 # Android Studio Docker
 
+Run dockerized version of Android studio (instead of installing)
+
 ## Preprerequisites
 
 * Docker daemon
